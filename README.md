@@ -3,7 +3,7 @@
 My name is Robley Ochieng from Kenya.
 I have a keen interest in back end development as well as Data Science.
 
-I am currently studying Software engineering at ALX Africa were I am learing:
+I am currently studying Software engineering at ALX Africa where I am learing:
 - Python
 - Flask
 - MySQL
