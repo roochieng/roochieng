@@ -1,21 +1,22 @@
 ## Hello, Welcome!
 
 My name is Robley Ochieng from Kenya.
-I have a keen interest in back end development as well as Data Science.
+I am a junior Software Engineer with keen interest in back end development as well as Data Science. I deverlope front-end systems as well.
 
-I am currently studying Software engineering at ALX Africa where I am learing:
+I am nearly graduating in Software engineering at ALX Africa where I am learning:
 - Python
 - Flask
 - MySQL
 - ORM(SQLAlchemy)
 - CSS
+- C
 - Java Script
 - HTML
 - Shell
 - Networking
 - APIs
 - Deployment
-- Templating with Jinja2
+- CI/CD
 - Docker
 
 How to reach me:
