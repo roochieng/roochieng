@@ -3,7 +3,7 @@
 My name is Robley Ochieng from Kenya.
 I am a junior Software Engineer with keen interest in back end development as well as Data Science. I deverlope front-end systems as well.
 
-I am nearly graduating in Software engineering at ALX Africa where I am learning:
+I am a graduate in Software engineering at ALX Africa where I learned:
 - Python
 - Flask
 - MySQL
@@ -19,5 +19,6 @@ I am nearly graduating in Software engineering at ALX Africa where I am learning
 - CI/CD
 - Docker
 
-How to reach me:
+
+You can reach me through:
 [X](https://twitter.com/RobleyOchieng), [LinkedIn](https://www.linkedin.com/in/robley-otieno-75900426b/)
