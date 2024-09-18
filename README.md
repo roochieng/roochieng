@@ -5,13 +5,15 @@ Junior Python Developer | Data Analyst | Tech Enthusiast
 Welcome to my GitHub! I'm a Python developer with a passion for building applications including web, analyzing data and server configuration and deployment automation. I have experience working with Python, Flask, Django, MySQL, data analysis tools and GitHub Actions for automation.
 
 
+
 ## 🛠️ Skills
 
-- **Programming Languages**: Python ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python), C, SQL
-- **Frameworks**: Flask ![Flask](https://img.shields.io/badge/Flask-v2.0-orange?logo=flask), Django
+- **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python), C, SQL
+- **Frameworks**: ![Flask](https://img.shields.io/badge/Flask-v2.0-orange?logo=flask), Django
 - **Databases**: MySQL, ORM
 - **Frontend**: HTML, CSS, JavaScript
 - **Tools**: Git, GitHub, Github Actions, Docker
+
 
 
 ## 💼 Experience
@@ -22,6 +24,7 @@ Welcome to my GitHub! I'm a Python developer with a passion for building applica
 - Configure and maintain server systems
 - Develop and deploy automation scripts using GitHub Actions.
 - Develop monitoring and logging system to track server performance indicators.
+
 
 
 ## 🔬 Projects
@@ -40,10 +43,14 @@ Welcome to my GitHub! I'm a Python developer with a passion for building applica
 - Implemented the data saving into excel.
 
 
+
+
 ## 🎓 Education
 
 **Bachelor's in Computer Science**  
 ALX Africa, 2024
+
+
 
 
 
