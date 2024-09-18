@@ -60,4 +60,4 @@ ALX Africa, 2024
 - **LinkedIn**: [robley-otieno](https://www.linkedin.com/in/robley-otieno-75900426b/)
 - **GitHub**: [Your GitHub](https://github.com/roochieng)
 
-- **witter/X**: [RobleyOchieng](https://twitter.com/RobleyOchieng)
+- **Twitter/X**: [RobleyOchieng](https://twitter.com/RobleyOchieng)
