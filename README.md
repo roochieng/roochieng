@@ -47,7 +47,7 @@ Welcome to my GitHub! I'm a Python developer with a passion for building applica
 
 ## 🎓 Education
 
-**Bachelor's in Computer Science**  
+**Sofware Engineering**  
 ALX Africa, 2024
 
 
