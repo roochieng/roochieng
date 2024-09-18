@@ -2,17 +2,15 @@
 
 Junior Python Developer | Data Analyst | Tech Enthusiast
 
-Welcome to my GitHub! I'm a Python developer with a passion for building applications including web, analyzing data and server configuration and deployment automation. I have experience working with Python, Flask, Django, MySQL, data analysis tools and GitHub Actions for automation.
-
+Welcome to my GitHub! I'm a Python developer with a passion for building applications including web, analyzing data, server configuration and deployment automation. I have experience working with Python, Flask, Django, MySQL, data analysis tools and GitHub Actions for automation.
 
 
 ## 🛠️ Skills
 
-- **Programming Languages**: ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python), C, SQL
-- **Frameworks**: ![Flask](https://img.shields.io/badge/Flask-v2.0-orange?logo=flask), Django
-- **Databases**: MySQL, ORM
-- **Frontend**: HTML, CSS, JavaScript
-- **Tools**: Git, GitHub, Github Actions, Docker
+| **Programming Languages** | **Frameworks** | **Databases** | **Frontend** | **Tools** |
+| :-----------------------: | :------------: | :-----------: | :----------: | :-------: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <br> **Python** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> <br> **Flask** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <br> **MySQL** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> <br> **HTML** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> <br> **Docker** |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <br> **C** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> <br> **Django** | | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> <br> **CSS** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> <br> **Git** |
 
 
 
