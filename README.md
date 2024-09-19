@@ -1,6 +1,6 @@
 # Hi, I'm Robley Ochieng Otieno 👋
 
-Junior Python Developer | Data Analyst | Tech Enthusiast
+Junior Python Developer | Junior Data Scientist | Tech Enthusiast
 
 Welcome to my GitHub! I'm a Python developer with a passion for building applications including web, analyzing data, server configuration and deployment automation. I have experience working with Python, Flask, Django, MySQL, data analysis tools and GitHub Actions for automation.<br>
 
