@@ -2,12 +2,11 @@
 
 Junior Python Developer | Data Analyst | Tech Enthusiast
 
-Welcome to my GitHub! I'm a Python developer with a passion for building applications including web, analyzing data, server configuration and deployment automation. I have experience working with Python, Flask, Django, MySQL, data analysis tools and GitHub Actions for automation. <br>
+Welcome to my GitHub! I'm a Python developer with a passion for building applications including web, analyzing data, server configuration and deployment automation. I have experience working with Python, Flask, Django, MySQL, data analysis tools and GitHub Actions for automation.
 
   
+<div style="margin-top: 20px;"></div>
 
-
-  
 
 ## 🛠️ Skills
 
@@ -18,8 +17,7 @@ Welcome to my GitHub! I'm a Python developer with a passion for building applica
 | | <img src="https://img.icons8.com/ios/452/api-settings.png" alt="restapi" width="40" height="40"/> <br>**REST API** | | | ![GitHub Actions](https://media.giphy.com/media/Urz2xEM4rY5mA/giphy.gif) <br> **GitHub Actions** | <br>
 
   
-
-
+<div style="margin-top: 20px;"></div>
 
 ## 💼 Experience
 
@@ -31,8 +29,7 @@ Welcome to my GitHub! I'm a Python developer with a passion for building applica
 - Develop monitoring and logging system to track server performance indicators. <br>
 
   
-  
-
+<div style="margin-top: 20px;"></div>
 
 
 ## 🔬 Projects
@@ -48,20 +45,18 @@ Welcome to my GitHub! I'm a Python developer with a passion for building applica
 *Python, Selenium, Excel*
 
 - Built an application that scrapes Aviator odds as they get updated in the verndor site. The vendors implemented here are (Sportpesa, Betika, 1XBet)
-- Implemented the data saving into excel. <br>
+- Implemented the data saving into excel.
 
-  
-
+<div style="margin-top: 20px;"></div>
 
 
 ## 🎓 Education
 
 **Sofware Engineering**  
 ALX Africa, 2024 
-<br>
+
   
-
-
+<div style="margin-top: 20px;"></div>
 
 ## 📫 Contact
 
