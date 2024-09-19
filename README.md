@@ -39,7 +39,7 @@ Welcome to my GitHub! I'm a Python developer with a passion for building applica
 
 - Built a web application that allows users to bookmark YouTube videos.
 - Implemented a responsive design using HTML, CSS, and JavaScript.
-- Deployed the app and integrated it with a MySQL database.
+- Deployed the app and integrated it with a MySQL database.<br>
 
 ### [Dynamic Web Scraper App](https://github.com/roochieng/aviator)
 *Python, Selenium, Excel*
@@ -58,7 +58,7 @@ ALX Africa, 2024<br>
   
 <div style="margin-top: 20px;"></div><br>
 
-## 📫 Contact
+## 📫 Contacts
 
 - **Email**: robley.ochieng@gmail.com
 - **LinkedIn**: [robley-otieno](https://www.linkedin.com/in/robley-otieno-75900426b/)
