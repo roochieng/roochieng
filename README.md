@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a Python developer with a passion for building applica
 ## 💼 Experience
 
 ### Junior DevOps Engineer - Locsafe
-*Sept - 2024 - November 2024*
+*September - 2024 - November 2024*
 
 - Configure and maintain server systems
 - Develop and deploy automation scripts using GitHub Actions.
