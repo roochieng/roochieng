@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a Python developer with a passion for building applica
 ## 💼 Experience
 
 ### Junior DevOps Engineer - Locsafe
-*Sept - 2024 - Present*
+*Sept - 2024 - November 2024*
 
 - Configure and maintain server systems
 - Develop and deploy automation scripts using GitHub Actions.
@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm a Python developer with a passion for building applica
 - Deployed the app and integrated it with a MySQL database.<br>
 
 ### [Dynamic Web Scraper App](https://github.com/roochieng/aviator)
-*Python, Selenium, Excel*
+*Python, Selenium, Pandas*
 
 - Built an application that scrapes Aviator odds as they get updated in the verndor site. The vendors implemented here are (Sportpesa, Betika, 1XBet)
 - Implemented the data saving into excel.<br>
